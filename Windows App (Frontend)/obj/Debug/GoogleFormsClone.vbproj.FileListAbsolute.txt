@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\GoogleFormsClone\obj\Debug\GoogleFormsClone.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\GoogleFormsClone\obj\Debug\GoogleFormsClone.CreateForm.resources
+C:\Users\hp\source\repos\GoogleFormsClone\obj\Debug\GoogleFormsClone.MainForm.resources
+C:\Users\hp\source\repos\GoogleFormsClone\obj\Debug\GoogleFormsClone.Resources.resources
+C:\Users\hp\source\repos\GoogleFormsClone\obj\Debug\GoogleFormsClone.ViewForm.resources
+C:\Users\hp\source\repos\GoogleFormsClone\obj\Debug\GoogleFormsClone.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\GoogleFormsClone\obj\Debug\GoogleFormsClone.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GoogleFormsClone\bin\Debug\GoogleFormsClone.exe.config
+C:\Users\hp\source\repos\GoogleFormsClone\bin\Debug\GoogleFormsClone.exe
+C:\Users\hp\source\repos\GoogleFormsClone\bin\Debug\GoogleFormsClone.pdb
+C:\Users\hp\source\repos\GoogleFormsClone\bin\Debug\GoogleFormsClone.xml
+C:\Users\hp\source\repos\GoogleFormsClone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\GoogleFormsClone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\GoogleFormsClone\obj\Debug\GoogleFo.818712DC.Up2Date
+C:\Users\hp\source\repos\GoogleFormsClone\obj\Debug\GoogleFormsClone.exe
+C:\Users\hp\source\repos\GoogleFormsClone\obj\Debug\GoogleFormsClone.xml
+C:\Users\hp\source\repos\GoogleFormsClone\obj\Debug\GoogleFormsClone.pdb
